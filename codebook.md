@@ -72,6 +72,7 @@ The variables of the data set data_mean, which is the basic output of this scrip
   They correspond to the average values of the original values for each subject and activity.
   
 Finally, the data set contains two more variables:
+
                         activity: which take tha values "walking", "walking_upstairs", "walking_downstairs", "sitting", "standing", "laying"
                         
                         subject: the number of the subject. Takes values from 1 to 30
